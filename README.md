@@ -58,4 +58,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MVC%20-614387.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
 </p>
 
-[![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll)](https://github.com/jasonpknoll/github-readme-stats)
+[![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
+](https://github.com/jasonpknoll/github-readme-stats)
