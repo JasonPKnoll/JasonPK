@@ -1,18 +1,3 @@
-<!--
-**JasonPKnoll/JasonPKnoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Jason Knoll
 🙋🏻‍♂️ He / him <br />
 
@@ -59,6 +44,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MVC%20-614387.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
 </p>
 </br>
+
+<details close>
+<summary>HOBBIES</summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/BLENDER%20-EA7600.svg?&style=for-the-badge&logo=Blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNITY%20-222c37.svg?&style=for-the-badge&logo=Unity&logoColor=white" />
+</p>
+</details>
 
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
 ](https://github.com/jasonpknoll/github-readme-stats)
