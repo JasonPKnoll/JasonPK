@@ -12,6 +12,14 @@
 🔎  [LinkedIn](https://www.linkedin.com/in/jason-p-knoll/)</br>
 📧 How to reach me: Jason@Knoll.co</br>
 
+<details close>
+<summary>HOBBIES</summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/BLENDER%20-EA7600.svg?&style=for-the-badge&logo=Blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNITY%20-222c37.svg?&style=for-the-badge&logo=Unity&logoColor=white" />
+</p>
+</details>
 
 ## SKILLS
 ### LANGUAGES
@@ -44,15 +52,6 @@
   <img src="https://img.shields.io/badge/MVC%20-614387.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
 </p>
 </br>
-
-<details close>
-<summary>HOBBIES</summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/BLENDER%20-EA7600.svg?&style=for-the-badge&logo=Blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/UNITY%20-222c37.svg?&style=for-the-badge&logo=Unity&logoColor=white" />
-</p>
-</details>
 
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
 ](https://github.com/jasonpknoll/github-readme-stats)
