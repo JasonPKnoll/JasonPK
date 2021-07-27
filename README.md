@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TDD%20-9A2779.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC%20-614387.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
 </p>
+</br>
 
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
 ](https://github.com/jasonpknoll/github-readme-stats)
