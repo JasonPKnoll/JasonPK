@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 
 *** *** ***
-💳 Former finacial sales rep, current ✨ backend software developer ✨ 💻<br/>
+♨️ Current backend software developer. ♨️<br/>
+💳 Former finacial sales representative.<br/>
 🧠  Passion for problem-solving and creative thinking.<br/>
 *** *** ***
-📚  Student at Turing School of Software & Design, 2021<br/>
+📚  Student at [Turing School of Software & Design](https://turing.edu/), Anticipated Graduation: November 2021<br/>
 🌱  I’m currently learning Rails, SQL, CSS, HTML
 🔎  [LinkedIn](https://www.linkedin.com/in/jason-p-knoll/)</br>
 📧 How to reach me: Jason@Knoll.co</br>
