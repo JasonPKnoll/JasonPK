@@ -13,7 +13,7 @@
 📧 How to reach me: Jason@Knoll.co</br>
 
 <details close>
-<summary>HOBBIES</summary>
+<summary>👾 HOBBIES</summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/BLENDER%20-EA7600.svg?&style=for-the-badge&logo=Blender&logoColor=white" />
