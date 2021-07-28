@@ -52,6 +52,14 @@
   <img src="https://img.shields.io/badge/MVC%20-614387.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
 </p>
 </br>
-
+  
 [![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
 ](https://github.com/jasonpknoll/github-readme-stats)
+
+<details close>
+<summary>MOST USED LANGUAGES</summary>
+<br>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonPKnoll&theme=synthwave&layout=compact">
+<p/>
+</details>
