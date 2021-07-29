@@ -53,7 +53,7 @@
 </p>
 </br>
   
-![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
+[![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonpknoll&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)](https://github.com/JasonPKnoll/)
 
 <details close>
 <summary>MOST USED LANGUAGES</summary>
