@@ -67,7 +67,7 @@
 <summary>CODE WARS</summary>
 <br>
 <p>
-<img src="https://arcane-beyond-95927.herokuapp.com/api/?username=JasonPKnoll&card&customcolor=bg:2a295b_fg:b500ed_text:fc4646_logo:2a295b_stroke:f75402">
+<img src="https://arcane-beyond-95927.herokuapp.com/api/?username=JasonPKnoll&card&customcolor=bg:2b213a_fg:c4c9cf_text:b42583_logo:2b213a_stroke:c4c9cf">
 <p/>
 </details>
 
