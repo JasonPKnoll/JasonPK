@@ -62,3 +62,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonPKnoll&theme=synthwave&layout=compact">
 <p/>
 </details>
+
+<details close>
+<summary>CODE WARS</summary>
+<br>
+<p>
+<img src="https://arcane-beyond-95927.herokuapp.com/api/?username=JasonPKnoll&card&customcolor=bg:2a295b_fg:b500ed_text:fc4646_logo:2a295b_stroke:f75402">
+<p/>
+</details>
+
