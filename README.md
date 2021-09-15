@@ -63,6 +63,7 @@
 <p/>
 </details>
 
+<!---
 <details close>
 <summary>CODE WARS</summary>
 <br>
@@ -70,4 +71,5 @@
 <img src="https://arcane-beyond-95927.herokuapp.com/api/?username=JasonPKnoll&card&customcolor=bg:2b213a_fg:c4c9cf_text:b42583_logo:2b213a_stroke:c4c9cf">
 <p/>
 </details>
+--->
 
